@@ -1,8 +1,16 @@
+<!-- ======================= HEADER ======================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=230&section=header&text=Maret%20Refat&fontSize=55&fontColor=0CE82B&fontAlignY=38&desc=Data%20Analytics%20%7C%20Applied%20AI&descAlignY=62&descSize=22" width="100%"/>
+</p>
+
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2000&pause=700&color=0CE82B&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hello+there!+%F0%9F%91%8B;I'm+Maret+Refat;Data+Analytics+%7C+Applied+AI" alt="Typing SVG" />
-  </a>
+  Hello there! 👋
 </h1>
+
+<p align="center">
+  <b>Data Analyst | Data Analytics & Applied AI</b>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maretrefat&label=Profile%20Views&color=0CE82B&style=flat" alt="Profile Views"/>
@@ -12,23 +20,51 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Maret Refat**, a student and aspiring **Data Analyst & Applied AI Engineer** passionate about turning data into meaningful insights and building practical AI solutions.
+Hi! I'm **Maret Refat**, a **Data Analyst specializing in Data Analytics and Applied AI**.
 
-I enjoy working across the full data journey — from **data cleaning and exploration** to **visualization, business analysis, machine learning, and applied AI**.
+I work with data to transform raw information into meaningful insights, business intelligence, and practical AI solutions.
 
-I'm continuously building my skills through hands-on projects and real-world datasets.
+My work combines **data analysis, visualization, machine learning, and applied artificial intelligence** to solve real-world problems.
 
-### 🔎 What I'm interested in
+---
 
-* 📊 Data Analytics & Business Intelligence
-* 🐍 Python for Data Analysis
-* 🗄️ SQL & Database Analysis
-* 📈 Excel & Power BI
-* 🤖 Machine Learning & Applied AI
-* 🧹 Data Cleaning & EDA
-* 📉 Data Visualization
-* 🧠 Deep Learning
-* 🌍 AI applications for real-world problems
+## 💼 Professional Experience
+
+### 📊 Data Analytics
+
+- Data Cleaning & Data Preparation
+- Exploratory Data Analysis (EDA)
+- Business Data Analysis
+- KPI Development
+- Data Quality Analysis
+- Statistical Analysis
+- Trend & Performance Analysis
+- Business Insights Generation
+- Data Visualization
+- Reporting & Dashboard Development
+
+### 📈 Business Intelligence
+
+- Microsoft Excel
+- Power Query
+- Power BI
+- DAX
+- Interactive Dashboards
+- KPI Tracking
+- Sales & Performance Analysis
+- Data Modeling
+- Business Reporting
+
+### 🤖 Applied AI & Machine Learning
+
+- Machine Learning
+- Deep Learning
+- Feature Engineering
+- Time-Series Analysis
+- Predictive Modeling
+- Computer Vision
+- Neural Networks
+- Applied AI Solutions
 
 ---
 
@@ -36,118 +72,143 @@ I'm continuously building my skills through hands-on projects and real-world dat
 
 ### 🌱 NileGuard — Drought Prediction & Early Warning System
 
-**NileGuard** is an applied AI project focused on drought prediction across **Upper Egypt**.
+**NileGuard** is an Applied AI project designed for drought prediction across **Upper Egypt**.
 
-The project combines climate data, historical **PDSI (Palmer Drought Severity Index)** values, deep learning, and machine learning to build an early-warning system that can help support agricultural and water-management decisions.
+The system combines climate data, historical **PDSI (Palmer Drought Severity Index)** values, deep learning, and machine learning to develop an early-warning approach for drought monitoring.
 
-**Technologies & concepts:**
+### 🔬 Technologies
 
-* Python
-* CNN
-* GRU
-* Random Forest
-* Spatial Attention
-* Time-series forecasting
-* Feature engineering
-* PDSI
-* Climate data
-* Machine Learning
-* Deep Learning
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- PyTorch
+- CNN
+- GRU
+- Random Forest
+- Spatial Attention
+- Time-Series Forecasting
+- Feature Engineering
+- PDSI
+- Climate Data
 
-> Turning climate data into actionable insights for drought monitoring and agricultural planning.
+### 🎯 Objective
+
+Transform climate and historical drought data into predictive insights that can support:
+
+- 🌾 Agricultural planning
+- 💧 Water-resource management
+- 📊 Drought monitoring
+- ⚠️ Early-warning systems
+- 🏛️ Data-driven decision making
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧰 Technical Skills
+
+### 🐍 Programming & Data
+
+<p align="center">
+
+<img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow"/>
+
+<img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=blue"/>
+
+</p>
+
+### 📊 Data Analytics & Business Intelligence
+
+<p align="center">
+
+<img alt="Excel" src="https://img.shields.io/badge/Microsoft%20Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=green"/>
+
+<img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-000000?style=for-the-badge&logo=microsoftpowerquery&logoColor=white"/>
+
+<img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=yellow"/>
+
+<img alt="DAX" src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=powerbi&logoColor=white"/>
+
+</p>
+
+### 🤖 Machine Learning & AI
+
+<p align="center">
+
+<img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=orange"/>
+
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=red"/>
+
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+
+</p>
+
+### 🔧 Tools & Development
+
+<p align="center">
+
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=orange"/>
+
+<img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=yellow"/>
+
+<img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=orange"/>
+
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
+
+</p>
+
+---
+
+## 📂 Projects
 
 ### 📊 Data Analytics
 
-<p align="center">
-<img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/>
-<img alt="SQL" src="https://img.shields.io/badge/SQL-%2312100E.svg?logo=postgresql&style=for-the-badge&logoColor=white"/>
-<img alt="Excel" src="https://img.shields.io/badge/Microsoft%20Excel-%2312100E.svg?logo=microsoftexcel&style=for-the-badge&logoColor=green"/>
-<img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-%2312100E.svg?logo=powerbi&style=for-the-badge&logoColor=yellow"/>
-</p>
+- **Sales Data Analysis**
+  - Excel
+  - Power Query
+  - Pivot Tables
+  - Business KPIs
+  - Data Cleaning
+  - Sales & Profit Analysis
 
-### 🤖 AI & Machine Learning
+- **Business Intelligence Dashboards**
+  - Power BI
+  - DAX
+  - Data Modeling
+  - Interactive Reports
+  - KPI Dashboards
 
-<p align="center">
-<img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit--Learn-%2312100E.svg?logo=scikit-learn&style=for-the-badge&logoColor=orange"/>
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%2312100E.svg?logo=tensorflow&style=for-the-badge&logoColor=orange"/>
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%2312100E.svg?logo=pytorch&style=for-the-badge&logoColor=red"/>
-</p>
+### 🤖 Applied AI
 
-### 🔧 Development & Data Tools
-
-<p align="center">
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%2312100E.svg?logo=jupyter&style=for-the-badge&logoColor=orange"/>
-<img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-%2312100E.svg?logo=googlecolab&style=for-the-badge&logoColor=yellow"/>
-<img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge&logoColor=orange"/>
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge"/>
-</p>
+- Machine Learning Projects
+- Deep Learning Projects
+- Computer Vision Projects
+- Time-Series Prediction
 
 ---
 
-## 📚 Currently Learning
+## 📊 Data Analytics Workflow
 
 ```text
-Data Analytics        ███████████████████░   Excel | SQL | Power BI
-Machine Learning      ████████████████░░░░   ML | Feature Engineering
-Applied AI            ███████████████░░░░░   Deep Learning | AI Applications
-Data Visualization    █████████████████░░░   Power BI | Python
-```
-
-I'm currently focused on becoming stronger in **professional Data Analytics workflows**, while continuing to develop my **Applied AI and Machine Learning** skills.
-
----
-
-## 📌 What You'll Find Here
-
-My GitHub is a collection of projects covering:
-
-* 📊 Exploratory Data Analysis
-* 🧹 Data Cleaning & Preparation
-* 📈 Business Dashboards
-* 📉 Data Visualization
-* 🗄️ SQL Analysis
-* 📗 Excel Analytics
-* 🧠 Machine Learning
-* 🤖 Applied AI
-* 🌍 Real-world AI applications
-
-Each project is built to strengthen both my **technical skills** and my ability to solve practical problems using data.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maretrefat&show_icons=true&theme=dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maretrefat&layout=compact&theme=dark&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/maretrefat">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?style=for-the-badge&logo=linkedin&logoColor=blue"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <i>"Turning data into insights, and ideas into intelligent solutions."</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Data Transformation
+   ↓
+Exploratory Data Analysis
+   ↓
+Feature Engineering
+   ↓
+Data Visualization
+   ↓
+Business Insights
+   ↓
+Machine Learning / Applied AI
+   ↓
+Decision Support
