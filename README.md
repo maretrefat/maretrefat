@@ -28,7 +28,7 @@ My work combines **data analysis, visualization, machine learning, and applied a
 
 ---
 
-## 💼 Professional Experience
+## Experience
 
 ### 📊 Data Analytics
 
@@ -192,23 +192,5 @@ Transform climate and historical drought data into predictive insights that can 
 
 ---
 
-## 📊 Data Analytics Workflow
 
-```text
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-Data Transformation
-   ↓
-Exploratory Data Analysis
-   ↓
-Feature Engineering
-   ↓
-Data Visualization
-   ↓
-Business Insights
-   ↓
-Machine Learning / Applied AI
-   ↓
 Decision Support
