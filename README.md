@@ -191,6 +191,24 @@ Transform climate and historical drought data into predictive insights that can 
 - Time-Series Prediction
 
 ---
+📈 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maretrefat&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=0CE82B&icon_color=0CE82B&text_color=FFFFFF" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maretrefat&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=0CE82B&text_color=FFFFFF" height="170"/> </p>
+📌 GitHub Focus
 
+My GitHub contains practical projects focused on:
 
-Decision Support
+Data Analytics • Business Intelligence • Machine Learning • Deep Learning • Applied AI
+
+My projects focus on connecting data, analytics, and intelligent systems to solve real-world problems and support data-driven decisions.
+
+🌐 Connect With Me
+<p align="center"> <a href="https://github.com/maretrefat"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="YOUR_LINKEDIN_URL"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> </p>
+<p align="center">
+
+<b>Data → Insights → Intelligence</b>
+
+<br><br>
+
+<i>"Turning data into insights and ideas into intelligent solutions."</i>
+
+</p> <!-- ======================= FOOTER ======================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/> </p> ```
